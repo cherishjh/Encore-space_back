@@ -71,7 +71,7 @@
 
 # 개별 작업 발표
 
-- [SPACE](https://github.com/lifedesigner88/Space-BackEnd/tree/develop/docs/Space)
-- [POST, 댓글, 좋아요](https://github.com/lifedesigner88/Space-BackEnd/tree/develop/docs/heejun_docs)
-- [채팅서비스](https://github.com/lifedesigner88/Space-BackEnd/tree/develop/docs/docs_jaeseok)
-- [회원가입, 로그인 및 프론트엔드](https://github.com/lifedesigner88/Space-BackEnd/tree/develop/docs/docs_GyeongNam)
+- [SPACE](https://github.com/beyond-sw-camp/be03-2nd-4team-encoreSPACE/blob/develop/docs/Space/README.md)
+- [POST, 댓글, 좋아요](https://github.com/beyond-sw-camp/be03-2nd-4team-encoreSPACE/blob/develop/docs/heejun_docs/README.md)
+- [채팅서비스](https://github.com/beyond-sw-camp/be03-2nd-4team-encoreSPACE/blob/develop/docs/docs_jaeseok/README.md)
+- [회원가입, 로그인 및 프론트엔드](https://github.com/beyond-sw-camp/be03-2nd-4team-encoreSPACE/blob/develop/docs/docs_GyeongNam/README.md)
